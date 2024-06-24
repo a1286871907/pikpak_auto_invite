@@ -26,6 +26,7 @@ def check_env():
 
 
 # 滑块数据加密
+
 def r(e, t):
     n = t - 1
     if n < 0:
